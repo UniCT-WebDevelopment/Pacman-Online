@@ -1,7 +1,7 @@
 # pacman_online
 **pacman_online** è un gioco multiplayer ispirato dall'omonimo videogame. 
 
-In maniera casuale un giocatore viene scelto per diventare PacMan. Gli altri giocatori saranno dei Ghost e concorreranno contro PacMan
+In maniera casuale un giocatore viene scelto per diventare PacMan. Gli altri giocatori saranno dei Ghost e concorreranno contro PacMan.
 
 Il giocatore che interpreta Pac-Man deve mangiare tutti i numerosi puntini disseminati ordinatamente all'interno del labirinto e, nel far questo, deve evitare di farsi toccare dagli altri giocatori (che interpretano i fantasmi), pena la perdita immediata di una delle 3 vite a disposizione. Per facilitare il compito a PacMan sono presenti, presso gli angoli dello schermo di gioco, quattro "pillole" speciali ("power pills"), che rovesciano la situazione rendendo vulnerabili i fantasmi, che diventano blu per 7 secondi esatti; Il giocatore PacMan per guadagnare punti può in questa fase andare a caccia dei fantasmi, per mangiarli.
 
